@@ -1,6 +1,7 @@
 <?php
 session_start();
 //require 'forums/plugins/jsconnect/functions.jsconnect.php' or die("error");
+// embedded php code..
 echo "<!DOCTYPE HTML> 
 <html>
 <head>
